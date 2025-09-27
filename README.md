@@ -17,18 +17,29 @@ It is designed to reduce employment gaps in **Bangladesh** by providing a **veri
 ---
 
 ## 📖 Table of Contents
-1. [Problem Background](#-problem-background)
-2. [Our Solution](#-our-solution)
-3. [Key Features](#-key-features)
-4. [Tech Stack](#-tech-stack)
-5. [Screenshots & Design](#-screenshots--design)
-6. [Vision](#-vision)
-7. [Roadmap](#-roadmap)
-8. [Installation (Developers)](#-installation-developers)
-9. [Contributing](#-contributing)
-10. [License](#-license)
-11. [Team](#-team)
-12. [Contact](#-contact)
+*   **[Introduction](#-shobkaaj--local-job--service-finder-app)**
+    *   [Problem Background](#-problem-background)
+    *   [Our Solution](#-our-solution)
+*   **[Technical Details](#-key-features)**
+    *   [Key Features](#-key-features)
+    *   [Tech Stack](#-tech-stack)
+    *   [Built With](#-built-with)
+    *   [Screenshots & Design](#-screenshots--design)
+*   **[Project Vision](#-vision)**
+    *   [Vision](#-vision)
+    *   [Roadmap](#-roadmap)
+*   **[Getting Started](#-getting-started)**
+    *   [Prerequisites](#-prerequisites)
+    *   [Installation](#-installation)
+    *   [Usage](#-usage)
+    *   [Deployment](#-deployment)
+*   **[Getting Involved](#-contributing)**
+    *   [Contributing](#-contributing)
+*   **[Legal](#-license)**
+    *   [License](#-license)
+*   **[About](#-team)**
+    *   [Team](#-team)
+    *   [Contact](#-contact)
 
 ---
 
@@ -101,6 +112,13 @@ ShobKaaj provides an **all-in-one mobile marketplace** where clients and workers
 
 ---
 
+## 🏗️ Built With
+
+*   [React Native](https://reactnative.dev/) - The framework used for building the mobile app.
+*   [Expo](https://expo.dev/) - The platform for making universal native apps.
+
+---
+
 ## 📷 Screenshots & Design
 
 _Visual preview of ShobKaaj is coming soon!_
@@ -145,65 +163,53 @@ ShobKaaj is **more than just a gig platform**. We aim to be a core driver of dig
 
 ---
 
-## 🛠️ Installation (Developers)
+## 🚀 Getting Started
 
-If you want to run ShobKaaj locally for development, follow these steps:
+To get a local copy up and running follow these simple example steps.
 
-```bash
-# Clone the repository
-git clone https://github.com/mahito-0/Software-Engineering.git
+### Prerequisites
 
-# Navigate into the project directory
-cd Software-Engineering
+*   npm
+    ```sh
+    npm install npm@latest -g
+    ```
 
-# Install dependencies (assuming a React Native/Expo project)
-npm install # or yarn install
+### Installation
 
-# Run the application
-npm start   # or expo start
-```
-## 👉 **Requirements:**
-* Node.js (>= 16.x)
-* React Native / Expo CLI
-* Android Studio or Xcode (for running emulators/simulators)
+1.  Clone the repo
+    ```sh
+    git clone https://github.com/mahito-0/Software-Engineering.git
+    ```
+2.  Install NPM packages
+    ```sh
+    npm install
+    ```
+
+### Usage
+
+_Usage instructions will be available soon!_
+
+### Deployment
+
+_Deployment instructions will be available soon!_
 
 ---
 
 ## 🤝 Contributing
-We welcome contributions from developers, designers, and community members. To contribute, please open an issue first to discuss what you would like to change. After that, please follow the standard GitHub flow:
 
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/your-feature-name`).
-3. Commit your changes (`git commit -m "feat: Added new feature"`).
-4. Push to your branch (`git push origin feature/your-feature-name`).
-5. Open a Pull Request (PR) to the main branch.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
 
 ---
 
 ## 📜 License
-This project is licensed under the MIT License.
 
-MIT License
-
-Copyright (c) 2025 Syed Al Mahmud
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
