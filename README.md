@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/github/license/mahito-0/Software-Engineering" alt="License">
   <img src="https://img.shields.io/github/last-commit/mahito-0/Software-Engineering" alt="Last Commit">
   <img src="https://img.shields.io/github/languages/top/mahito-0/Software-Engineering" alt="Top Language">
+  <img src="https://img.shields.io/badge/status-in%20development-yellowgreen" alt="Status">
 </p>
 
 **ShobKaaj** is a mobile application that connects clients with trusted local workers for a wide range of services — from household repairs and tutoring to delivery, freelance work, and errands.
@@ -25,6 +26,7 @@ It is designed to reduce employment gaps in **Bangladesh** by providing a **veri
     *   [Tech Stack](#-tech-stack)
     *   [Built With](#-built-with)
     *   [Screenshots & Design](#-screenshots--design)
+*   **[Project Status](#-project-status)**
 *   **[Project Vision](#-vision)**
     *   [Vision](#-vision)
     *   [Roadmap](#-roadmap)
@@ -35,11 +37,14 @@ It is designed to reduce employment gaps in **Bangladesh** by providing a **veri
     *   [Deployment](#-deployment)
 *   **[Getting Involved](#-contributing)**
     *   [Contributing](#-contributing)
+    *   [Code of Conduct](#-code-of-conduct)
 *   **[Legal](#-license)**
     *   [License](#-license)
 *   **[About](#-team)**
     *   [Team](#-team)
     *   [Contact](#-contact)
+*   **[Support & Donations](#-support--donations)**
+*   **[Changelog](#-changelog)**
 
 ---
 
@@ -107,8 +112,8 @@ ShobKaaj provides an **all-in-one mobile marketplace** where clients and workers
 | **Location Services** | GPS/Geo-location APIs | Enables real-time, proximity-based job and worker matching. |
 | **Payments** | **bKash & Nagad APIs** | Secure, integrated digital wallet functionality for local transactions. |
 | **Messaging** | WebSockets & Push Notifications | Powers real-time, secure in-app chat. |
-| **Backend** | (To be specified - e.g., Node.js, Python/Django) | Designed for high scalability and reliability. |
-| **Database** | (To be specified - e.g., MongoDB, PostgreSQL) | For storing user data, job postings, and other application data. |
+| **Backend** | **Node.js, Express.js** | Designed for high scalability and reliability. |
+| **Database** | **MongoDB** | For storing user data, job postings, and other application data. |
 
 ---
 
@@ -116,6 +121,9 @@ ShobKaaj provides an **all-in-one mobile marketplace** where clients and workers
 
 *   [React Native](https://reactnative.dev/) - The framework used for building the mobile app.
 *   [Expo](https://expo.dev/) - The platform for making universal native apps.
+*   [Node.js](https://nodejs.org/) - The JavaScript runtime used for the backend.
+*   [Express.js](https://expressjs.com/) - The backend framework for Node.js.
+*   [MongoDB](https://www.mongodb.com/) - The NoSQL database used for the application.
 
 ---
 
@@ -124,6 +132,12 @@ ShobKaaj provides an **all-in-one mobile marketplace** where clients and workers
 _Visual preview of ShobKaaj is coming soon!_
 
 🔗 **Figma Prototype (Demo):** [View Prototype on Figma](https://www.figma.com/design/jJarzBaAAiTopQT5vsmdqY/Final-Project?node-id=0-)
+
+---
+
+## 📊 Project Status
+
+This project is currently **in development**.
 
 ---
 
@@ -205,6 +219,12 @@ Contributions are what make the open source community such an amazing place to l
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
+We have a `PULL_REQUEST_TEMPLATE.md` file in the root directory of this project. Please follow the template when creating a pull request.
+
+### Code of Conduct
+
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
+
 ---
 
 ## 📜 License
@@ -222,3 +242,17 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📧 Contact
 
 For any inquiries, please email us at [mahmud.agni@gmail.com](mailto:mahmud.agni@gmail.com)
+
+---
+
+## ❤️ Support & Donations
+
+If you like this project, please consider supporting it by making a donation. We appreciate your support!
+
+[Donate Now](https://www.buymeacoffee.com/your-username) (placeholder)
+
+---
+
+## 📜 Changelog
+
+See the [Changelog](CHANGELOG.md) for a history of changes to this project.
