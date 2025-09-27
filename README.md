@@ -12,9 +12,10 @@ It is designed to reduce employment gaps in **Bangladesh** by providing a **veri
 4. [Tech Highlights](#-tech-highlights)  
 5. [Screenshots & Design](#-screenshots--design)  
 6. [Vision](#-vision)  
-7. [Installation (Developers)](#-installation-developers)  
-8. [Contributing](#-contributing)  
-9. [License](#-license)  
+7. [Roadmap](#-roadmap)  
+8. [Installation (Developers)](#-installation-developers)  
+9. [Contributing](#-contributing)  
+10. [License](#-license)  
 
 ---
 
@@ -81,7 +82,7 @@ ShobKaaj provides an **all-in-one mobile marketplace** where clients and workers
 ## 📷 Screenshots & Design
 _Visual preview of ShobKaaj (coming soon)._  
 
-🔗 **Figma Prototype (Demo):** [View on Figma](https://www.figma.com/file/your-demo-link-here)  
+🔗 **Figma Prototype (Demo):** [View on Figma](https://www.figma.com/design/jJarzBaAAiTopQT5vsmdqY/Final-Project?node-id=0-)  
 
 ---
 
@@ -94,16 +95,41 @@ ShobKaaj is **more than a gig platform**. It aims to:
 
 ---
 
+## 🗺️ Roadmap
+
+### ✅ MVP (Minimum Viable Product)
+- [x] User authentication (clients & workers)  
+- [x] Basic job posting & browsing  
+- [x] Worker profile creation  
+- [x] In-app chat system  
+- [x] Location-based matching  
+
+### 🚧 Beta Release
+- [ ] Ratings & reviews system  
+- [ ] Payment gateway integration (bKash/Nagad)  
+- [ ] Push notifications for job updates  
+- [ ] Rural user support (low-data mode, Bangla-first UI)  
+- [ ] Admin dashboard for monitoring jobs & disputes  
+
+### 🌍 Full Launch
+- [ ] Advanced analytics for workers & clients  
+- [ ] Trust badges & verification tiers  
+- [ ] Multi-language support (Bangla, English)  
+- [ ] AI-powered job recommendations  
+- [ ] Expansion to rural regions across Bangladesh  
+
+---
+
 ## 🛠️ Installation (Developers)
 
 If you want to run ShobKaaj locally for development:  
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/shobkaaj.git
+git clone https://github.com/mahito-0/Software-Engineering.git
 
 # Navigate into the project
-cd shobkaaj
+cd Software-Engineering
 
 # Install dependencies
 npm install   # or yarn install
@@ -137,10 +163,28 @@ Open a Pull Request
 
 📜 License
 
-This project is licensed under the MIT License – see the LICENSE
- file for details.
+This project is licensed under the MIT License – see below.
 
- 
-⚡ This version is **structured, professional, and explanatory** — helpful for devs, contributors, and stakeholders alike.  
+MIT License
 
-Do you want me to also add a **Roadmap section (with checklists for MVP, Beta, and Full Release)** so potential contributors/users know what’s coming next?
+Copyright (c) 2025 [Your Name]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+💡 Made with ❤️ to empower communities in Bangladesh
