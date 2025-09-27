@@ -1,7 +1,7 @@
 # 🛠️ ShobKaaj – Local Job & Service Finder App
 
 **ShobKaaj** is a mobile application that connects clients with trusted local workers for a wide range of services — from household repairs and tutoring to delivery, freelance work, and errands.  
-It is designed to reduce employment gaps in **Bangladesh** by providing a **verified, location-based, and inclusive digital job marketplace** for both urban and rural communities.  
+It is designed to reduce employment gaps in **Bangladesh** by providing a **verified, location-based, and inclusive digital job marketplace** for both urban and rural communities.
 
 ---
 
@@ -20,6 +20,7 @@ It is designed to reduce employment gaps in **Bangladesh** by providing a **veri
 ---
 
 ## 🌍 Problem Background
+
 In Bangladesh, many **skilled individuals** — students, freelancers, and laborers — struggle to find **consistent work** or **reliable clients**.  
 
 Meanwhile, **households, students, and small businesses** often need **quick, trustworthy help** for everyday tasks like:  
@@ -29,11 +30,12 @@ Meanwhile, **households, students, and small businesses** often need **quick, tr
 - Event setup  
 - Freelance work  
 
-👉 However, **no centralized, safe, and user-friendly platform** exists to connect both sides effectively.  
+👉 However, **no centralized, safe, and user-friendly platform** exists to connect both sides effectively.
 
 ---
 
 ## ✅ Our Solution
+
 ShobKaaj provides an **all-in-one mobile marketplace** where clients and workers can meet, collaborate, and grow.  
 
 **Core benefits:**  
@@ -80,13 +82,15 @@ ShobKaaj provides an **all-in-one mobile marketplace** where clients and workers
 ---
 
 ## 📷 Screenshots & Design
+
 _Visual preview of ShobKaaj (coming soon)._  
 
-🔗 **Figma Prototype (Demo):** [View on Figma](https://www.figma.com/design/jJarzBaAAiTopQT5vsmdqY/Final-Project?node-id=0-)  
+🔗 **Figma Prototype (Demo):** [View on Figma](https://www.figma.com/file/your-demo-link-here)  
 
 ---
 
 ## 📌 Vision
+
 ShobKaaj is **more than a gig platform**. It aims to:  
 - 🏘️ Empower rural workers with digital access  
 - 📱 Promote **digital inclusion** in Bangladesh  
@@ -136,20 +140,3 @@ npm install   # or yarn install
 
 # Run the app
 npm start     # or expo start
----
-
-## 🤝 Contributing
-If you want to contribute to ShobKaaj, please follow these guidelines:
-
-Steps:
-
-Fork the repository
-
-Create a feature branch (git checkout -b feature-name)
-
-Commit changes (git commit -m "Added new feature")
-
-Push to your branch (git push origin feature-name)
-
-Open a Pull Request
-
