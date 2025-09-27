@@ -7,16 +7,16 @@ It is designed to reduce employment gaps in **Bangladesh** by providing a **veri
 ---
 
 ## 📖 Table of Contents
-1. [Problem Background](#problem-background)
-2. [Our Solution](#our-solution)
-3. [Key Features](#key-features)
-4. [Tech Stack](#tech-stack)
-5. [Screenshots & Design](#screenshots--design)
-6. [Vision](#vision)
-7. [Roadmap](#roadmap)
-8. [Installation (Developers)](#installation-developers)
-9. [Contributing](#contributing)
-10. [License](#license)
+1. [Problem Background](#-problem-background)
+2. [Our Solution](#-our-solution)
+3. [Key Features](#-key-features)
+4. [Tech Stack](#-tech-stack)
+5. [Screenshots & Design](#-screenshots--design)
+6. [Vision](#-vision)
+7. [Roadmap](#-roadmap)
+8. [Installation (Developers)](#-installation-developers)
+9. [Contributing](#-contributing)
+10. [License](#-license)
 
 ---
 
