@@ -13,9 +13,9 @@ It is designed to reduce employment gaps in **Bangladesh** by providing a **veri
 5. [Screenshots & Design](#-screenshots--design)  
 6. [Vision](#-vision)  
 7. [Roadmap](#-roadmap)  
-8. [Installation (Developers)](#-installation-developers)  
-9. [Contributing](#-contributing)  
-10. [License](#-license)  
+8. [Installation (Developers)](#installation-developers)  
+9. [Contributing](#contributing)  
+10. [License](#license)   
 
 ---
 
