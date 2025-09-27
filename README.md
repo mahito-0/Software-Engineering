@@ -1,5 +1,15 @@
 # 🛠️ ShobKaaj – Local Job & Service Finder App
 
+<p align="center">
+  <img src="img/proimg.png" alt="ShobKaaj Logo" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/mahito-0/Software-Engineering" alt="License">
+  <img src="https://img.shields.io/github/last-commit/mahito-0/Software-Engineering" alt="Last Commit">
+  <img src="https://img.shields.io/github/languages/top/mahito-0/Software-Engineering" alt="Top Language">
+</p>
+
 **ShobKaaj** is a mobile application that connects clients with trusted local workers for a wide range of services — from household repairs and tutoring to delivery, freelance work, and errands.
 
 It is designed to reduce employment gaps in **Bangladesh** by providing a **verified, location-based, and inclusive digital job marketplace** for both urban and rural communities.
@@ -17,6 +27,8 @@ It is designed to reduce employment gaps in **Bangladesh** by providing a **veri
 8. [Installation (Developers)](#-installation-developers)
 9. [Contributing](#-contributing)
 10. [License](#-license)
+11. [Team](#-team)
+12. [Contact](#-contact)
 
 ---
 
@@ -85,6 +97,7 @@ ShobKaaj provides an **all-in-one mobile marketplace** where clients and workers
 | **Payments** | **bKash & Nagad APIs** | Secure, integrated digital wallet functionality for local transactions. |
 | **Messaging** | WebSockets & Push Notifications | Powers real-time, secure in-app chat. |
 | **Backend** | (To be specified - e.g., Node.js, Python/Django) | Designed for high scalability and reliability. |
+| **Database** | (To be specified - e.g., MongoDB, PostgreSQL) | For storing user data, job postings, and other application data. |
 
 ---
 
@@ -149,7 +162,7 @@ npm install # or yarn install
 # Run the application
 npm start   # or expo start
 ```
-👉 **Requirements:**
+## 👉 **Requirements:**
 * Node.js (>= 16.x)
 * React Native / Expo CLI
 * Android Studio or Xcode (for running emulators/simulators)
@@ -157,7 +170,7 @@ npm start   # or expo start
 ---
 
 ## 🤝 Contributing
-We welcome contributions from developers, designers, and community members. To contribute, please follow the standard GitHub flow:
+We welcome contributions from developers, designers, and community members. To contribute, please open an issue first to discuss what you would like to change. After that, please follow the standard GitHub flow:
 
 1. Fork the repository.
 2. Create a feature branch (`git checkout -b feature/your-feature-name`).
@@ -191,3 +204,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## 👨‍💻 Team
+
+*   **Syed Al Mahmud** - [GitHub](https://github.com/mahito-0)
+
+---
+
+## 📧 Contact
+
+For any inquiries, please email us at [mahmud.agni@gmail.com](mailto:mahmud.agni@gmail.com)
