@@ -136,8 +136,9 @@ npm install   # or yarn install
 
 # Run the app
 npm start     # or expo start
+---
 
-👉 Requirements:
+##👉 Requirements:
 
 Node.js (>= 16.x)
 
@@ -145,9 +146,10 @@ React Native / Expo CLI
 
 Android Studio or Xcode (for emulators)
 
-🤝 Contributing
+---
 
-We welcome contributions from developers, designers, and community members.
+## 🤝 Contributing
+If you want to contribute to ShobKaaj, please follow these guidelines:
 
 Steps:
 
@@ -160,10 +162,6 @@ Commit changes (git commit -m "Added new feature")
 Push to your branch (git push origin feature-name)
 
 Open a Pull Request
-
-📜 License
-
-This project is licensed under the MIT License – see below.
 
 MIT License
 
@@ -186,5 +184,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-💡 Made with ❤️ to empower communities in Bangladesh
